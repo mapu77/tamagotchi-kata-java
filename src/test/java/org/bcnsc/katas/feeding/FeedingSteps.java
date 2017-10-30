@@ -12,6 +12,12 @@ public class FeedingSteps {
         throw new PendingException();
     }
 
+    @And("^it's full$")
+    public void itsFull() throws Throwable {
+        // Write code here that turns the phrase above into concrete actions
+        throw new PendingException();
+    }
+
     @Then("^it's hungriness is decreased$")
     public void itsHungrinessIsDecreased() throws Throwable {
         // Write code here that turns the phrase above into concrete actions
@@ -24,4 +30,15 @@ public class FeedingSteps {
         throw new PendingException();
     }
 
+    @Then("^it's hungriness is minimum$")
+    public void itsHungrinessIsMinimum() throws Throwable {
+        // Write code here that turns the phrase above into concrete actions
+        throw new PendingException();
+    }
+
+    @And("^it's fullness is maximum$")
+    public void itsFullnessIsMaximum() throws Throwable {
+        // Write code here that turns the phrase above into concrete actions
+        throw new PendingException();
+    }
 }
