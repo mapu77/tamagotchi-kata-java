@@ -1,4 +1,4 @@
-package org.bcnsc.katas.needs;
+package org.bcnsc.katas.tamagotchi.needs;
 
 import cucumber.api.PendingException;
 import cucumber.api.java.en.And;

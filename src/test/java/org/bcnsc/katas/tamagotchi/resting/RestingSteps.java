@@ -1,4 +1,4 @@
-package org.bcnsc.katas.resting;
+package org.bcnsc.katas.tamagotchi.resting;
 
 import cucumber.api.PendingException;
 import cucumber.api.java.en.And;

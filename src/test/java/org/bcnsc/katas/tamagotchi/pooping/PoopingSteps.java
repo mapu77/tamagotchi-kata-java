@@ -1,4 +1,4 @@
-package org.bcnsc.katas.pooping;
+package org.bcnsc.katas.tamagotchi.pooping;
 
 import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
