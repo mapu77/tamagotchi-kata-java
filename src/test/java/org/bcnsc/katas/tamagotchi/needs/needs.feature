@@ -10,3 +10,4 @@ Feature: Needs change over time
     Then it's tiredness is increased
     And it's hungriness is increased
     And it's happiness is decreased
+    And it's fullness is decreased
